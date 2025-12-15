@@ -130,7 +130,10 @@
 
 ### 🔥 Contribution Streak & Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kanishkkumarsingh2004&theme=tokyonight)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kanishkkumarsingh2004&theme=tokyonight)
+
+<!-- Alternative streak service -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=kanishkkumarsingh2004&theme=tokyonight) -->
 
 </div>
 
@@ -142,22 +145,7 @@
 
 </div>
 
-<div align="center">
 
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kanishkkumarsingh2004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<div align="center">
-
-### ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</div>
 
 ---
 
