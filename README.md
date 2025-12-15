@@ -119,6 +119,8 @@
 
 <div align="center">
 
+### 📈 GitHub Stats & Activity
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kanishkkumarsingh2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkkumarsingh2004&layout=compact&langs_count=8&theme=tokyonight"/>
 
@@ -126,7 +128,34 @@
 
 <div align="center">
 
+### 🔥 Contribution Streak & Activity
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kanishkkumarsingh2004&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+### 📅 Contribution Heatmap
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kanishkkumarsingh2004&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kanishkkumarsingh2004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<div align="center">
+
+### ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 </div>
 
