@@ -2026,14 +2026,20 @@ section {
     background: var(--primary-color);
     position: relative;
     overflow: hidden;
+    width: 100%;
+    padding: 4rem 0;
 }
 
 .contact-grid {
-    display: grid;
-    grid-template-columns: 1fr 1.5fr;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     gap: 4rem;
-    max-width: 1200px;
+    width: 100%;
+    max-width: 100%;
     margin: 0 auto;
+    padding: 0 2rem;
+    min-height: 60vh;
 }
 
 .contact-info-card {
@@ -2041,6 +2047,9 @@ section {
     border-radius: 16px;
     padding: 2.5rem;
     border: 1px solid var(--border-color);
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
 }
 
 .contact-methods {
@@ -2313,4 +2322,49 @@ section {
 html {
     scrollbar-width: thin;
     scrollbar-color: var(--accent-color) var(--card-bg);
+}
+
+/* Project Links Styles */
+.project-links {
+    display: flex;
+    gap: 1rem;
+    margin-top: 1rem;
+    flex-wrap: wrap;
+}
+
+.btn-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    background: var(--accent-gradient);
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-size: 0.9rem;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    border: 1px solid var(--border-color);
+}
+
+.btn-link:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 25px rgba(59, 130, 246, 0.3);
+    background: var(--hover-color);
+}
+
+.btn-link i {
+    font-size: 0.9rem;
+}
+
+/* Responsive adjustments for project links */
+@media (max-width: 768px) {
+    .project-links {
+        justify-content: center;
+    }
+    
+    .btn-link {
+        font-size: 0.8rem;
+        padding: 0.4rem 0.8rem;
+    }
 }

@@ -102,12 +102,15 @@
     }
 
     .contact-section {
-        padding: 4rem 1rem;
+        padding: 4rem 0;
     }
     
     .contact-grid {
         grid-template-columns: 1fr;
         gap: 2rem;
+        padding: 0 1rem;
+        width: 100%;
+        max-width: 100%;
     }
     
     .contact-info-card,
@@ -127,7 +130,13 @@
     }
 
     .contact-section {
-        padding: 2rem 0.5rem;
+        padding: 2rem 0;
+    }
+    
+    .contact-grid {
+        padding: 0 0.5rem;
+        width: 100%;
+        max-width: 100%;
     }
     
     .contact-info-card,
