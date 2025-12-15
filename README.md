@@ -126,24 +126,7 @@
 
 </div>
 
-<div align="center">
 
-### 🔥 Contribution Streak & Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kanishkkumarsingh2004&theme=tokyonight)
-
-<!-- Alternative streak service -->
-<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=kanishkkumarsingh2004&theme=tokyonight) -->
-
-</div>
-
-<div align="center">
-
-### 📅 Contribution Heatmap
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kanishkkumarsingh2004&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
 
 
 
