@@ -10,6 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=web)](https://kanishkkumarsingh2004.github.io/kanishkkumarsingh2004/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kanishk-kumar-singh-171a0828a/)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-orange?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/kanishkkumarsingh)
 
 </div>
 
@@ -44,58 +45,26 @@
 <tr>
 <td width="50%">
 
-### 📊 [JSONPULSE](https://github.com/kanishkkumarsingh2004/JSONPULSE)
-**Advanced JSON Data Visualization Platform**
+### ⚡ [ChainForgeLedger](https://pypi.org/project/ChainForgeLedger/)
+**Complete Blockchain Platform Library**
 
-🔗 **[Live Demo](https://jsonpulse-zeta.vercel.app)**
+- **Tech Stack:** Python, Blockchain
+- **Features:** PoW/PoS consensus, smart contracts, DeFi applications
+- **Version:** 1.0.0 | **Released:** Feb 2026
 
-- **Tech Stack:** TypeScript, PostgreSQL, CSS
-- **Features:** Interactive JSON parsing and visualization
-- **Status:** Recently Updated (Dec 2025)
-
-*A powerful tool for developers to visualize and analyze JSON data structures with an intuitive interface.*
+*A comprehensive blockchain library built from scratch with pure Python, featuring core blockchain operations, smart contracts, and decentralized finance capabilities.*
 
 </td>
 <td width="50%">
 
-### 💬 [ShadowTalk](https://github.com/kanishkkumarsingh2004/ShadowTalk)
-**Anonymous Chat Platform**
+### 🤖 [daie](https://pypi.org/project/daie/)
+**Decentralized AI Ecosystem**
 
-🔗 **[Live Demo](https://shadow-talk-three.vercel.app)**
+- **Tech Stack:** Python, AI/ML
+- **Features:** AI agent management, intelligent tool selection, LLM integration
+- **Version:** 1.0.2 | **Released:** Feb 2026
 
-- **Tech Stack:** TypeScript, JavaScript, CSS
-- **Features:** Anonymous rooms, real-time chat, no logs
-- **Stars:** ⭐ 1 | **Created:** Nov 2025
-
-*Create private rooms, talk freely, share the link, and disappear. No accounts, no logs—just real conversations.*
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ⚡ [FlashShare](https://github.com/kanishkkumarsingh2004/FlashShare)
-**Blazing-Fast File Sharing**
-
-🔗 **[Live Demo](https://flashshare-sigma.vercel.app)**
-
-- **Tech Stack:** HTML, Python
-- **Features:** Session-based sharing, memory-only storage
-- **Stars:** ⭐ 1 | **Created:** Oct 2025
-
-*Share files and folders instantly over the internet. All files kept in memory—never written to disk for maximum privacy.*
-
-</td>
-<td width="50%">
-
-### 🛡️ [QuantumCryptEngine](https://github.com/kanishkkumarsingh2004/QuantumCryptEngine)
-**Quantum Cryptography System**
-
-- **Tech Stack:** Python, Quantum Computing
-- **Features:** Quantum-based encryption algorithms
-- **Focus:** Secure communication protocols
-
-*Advanced cryptographic system leveraging quantum computing principles for next-generation security.*
+*A professional, optimized Python library for creating and managing AI agents with tools, featuring intelligent task execution, memory management, and LLM integration.*
 
 </td>
 </tr>
@@ -124,6 +93,13 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kanishkkumarsingh2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkkumarsingh2004&layout=compact&langs_count=8&theme=tokyonight"/>
 
+<br><br>
+
+### 🔥 GitHub Streak & Contributions
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkkumarsingh2004&theme=tokyonight&hide_border=false"/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=kanishkkumarsingh2004&theme=tokyonight&hide_border=false&area=true"/>
+
 </div>
 
 
@@ -146,7 +122,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishk-kumar-singh-171a0828a/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_kanishk_singh_737_?igsh=Y2E0cjMxYml6dTli) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://kanishkkumarsingh2004.github.io/kanishkkumarsingh2004/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanishkkumarsingh2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishk-kumar-singh-171a0828a/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_kanishk_singh_737_?igsh=Y2E0cjMxYml6dTli) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://kanishkkumarsingh2004.github.io/kanishkkumarsingh2004/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanishkkumarsingh2004@gmail.com) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-orange?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/kanishkkumarsingh)
 
 </div>
 
