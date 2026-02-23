@@ -2368,3 +2368,173 @@ html {
         padding: 0.4rem 0.8rem;
     }
 }
+/* Libraries Section */
+.libraries-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 6rem 2rem;
+    background: var(--primary-color);
+    position: relative;
+    overflow: hidden;
+}
+
+.libraries-section::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(180deg, 
+        rgba(59, 130, 246, 0.03) 0%,
+        rgba(0, 0, 0, 0) 50%,
+        rgba(59, 130, 246, 0.03) 100%
+    );
+    pointer-events: none;
+}
+
+.libraries-grid {
+    max-width: 1400px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 2rem;
+    padding: 1rem;
+    position: relative;
+    z-index: 2;
+}
+
+.library-card {
+    background: var(--card-bg);
+    border-radius: 15px;
+    padding: 2.5rem;
+    border: 1px solid rgba(59, 130, 246, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.library-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: var(--accent-gradient);
+    transform: scaleX(0);
+    transition: transform 0.3s ease;
+}
+
+.library-card:hover::before {
+    transform: scaleX(1);
+}
+
+.library-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 24px rgba(59, 130, 246, 0.1);
+    border-color: rgba(59, 130, 246, 0.2);
+}
+
+.library-icon {
+    font-size: 3rem;
+    color: var(--accent-color);
+    margin-bottom: 1.5rem;
+    opacity: 0.9;
+}
+
+.library-card h3 {
+    font-size: 1.4rem;
+    margin-bottom: 1rem;
+    color: var(--text-color);
+    font-weight: 600;
+}
+
+.library-description {
+    color: var(--text-secondary);
+    font-size: 0.95rem;
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+}
+
+.library-details {
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+    margin-bottom: 1.5rem;
+    text-align: left;
+}
+
+.detail-item {
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+}
+
+.detail-item i {
+    color: var(--accent-color);
+    width: 16px;
+    text-align: center;
+}
+
+.library-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+    justify-content: center;
+    margin-bottom: 1.5rem;
+}
+
+.library-tags span {
+    background: rgba(59, 130, 246, 0.1);
+    color: var(--accent-color);
+    padding: 0.4rem 0.8rem;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    border: 1px solid rgba(59, 130, 246, 0.2);
+}
+
+.library-card .btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.8rem 1.5rem;
+    font-size: 0.9rem;
+}
+
+.btn.small {
+    padding: 0.7rem 1.4rem;
+    font-size: 0.85rem;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .libraries-section {
+        padding: 4rem 1rem;
+    }
+
+    .libraries-grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+
+    .library-card {
+        padding: 1.5rem;
+    }
+
+    .library-card h3 {
+        font-size: 1.3rem;
+    }
+
+    .library-description {
+        font-size: 0.9rem;
+    }
+
+    .library-tags span {
+        font-size: 0.75rem;
+    }
+}
