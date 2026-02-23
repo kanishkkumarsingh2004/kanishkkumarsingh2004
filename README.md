@@ -57,6 +57,20 @@
 </td>
 <td width="50%">
 
+### 🔗 [chainforge-ledger](https://www.npmjs.com/package/chainforge-ledger)
+**Research-Level Modular Blockchain Framework**
+
+- **Tech Stack:** TypeScript, Blockchain
+- **Features:** Comprehensive testing, modular architecture, ERC standards
+- **Version:** 1.0.0 | **Released:** Feb 2026
+
+*A TypeScript-based blockchain framework with comprehensive testing suite covering all aspects of blockchain systems, including ERC20/ERC721/ERC1155 token standards and modular architecture.*
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 🤖 [daie](https://pypi.org/project/daie/)
 **Decentralized AI Ecosystem**
 
@@ -65,6 +79,18 @@
 - **Version:** 1.0.2 | **Released:** Feb 2026
 
 *A professional, optimized Python library for creating and managing AI agents with tools, featuring intelligent task execution, memory management, and LLM integration.*
+
+</td>
+<td width="50%">
+
+### 📱 [Coming Soon]
+**Next Generation Project**
+
+- **Tech Stack:** TBD
+- **Features:** Innovative solutions
+- **Version:** TBD | **Released:** TBD
+
+*Stay tuned for exciting new projects!*
 
 </td>
 </tr>
