@@ -76,7 +76,7 @@
 
 - **Tech Stack:** Python, AI/ML
 - **Features:** AI agent management, intelligent tool selection, LLM integration
-- **Version:** 1.0.3 | **Released:** Feb 2026
+- **Version:** 1.0.3 | **Released:** April 2026
 
 *A professional, optimized Python library for creating and managing AI agents with tools, featuring intelligent task execution, memory management, and LLM integration.*
 
