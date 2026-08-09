@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Kanishk Kumar Singh! 👋
- 
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer+%7C+Full+Stack+Developer;Python+Enthusiast+%7C+TypeScript+Lover;Building+the+Future+with+Code!" alt="Typing SVG" />
 
 🚀 **Aspiring AI/ML Engineer | Full Stack Developer | Tech Innovator**  
