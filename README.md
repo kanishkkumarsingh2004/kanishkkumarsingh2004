@@ -83,14 +83,14 @@
 </td>
 <td width="50%">
 
-### 📱 [Coming Soon]
-**Next Generation Project**
+### ♟️ Chess Animation
+**The Immortal Game (1851)**
 
-- **Tech Stack:** TBD
-- **Features:** Innovative solutions
-- **Version:** TBD | **Released:** TBD
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Immortal_game_animation.gif" width="200" alt="Chess Game Animation"/>
+</div>
 
-*Stay tuned for exciting new projects!*
+*Enjoy this classic chess game animation right here in my profile!*
 
 </td>
 </tr>
@@ -125,6 +125,16 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkkumarsingh2004&theme=tokyonight&hide_border=false"/>
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kanishkkumarsingh2004&theme=tokyonight&hide_border=false&area=true"/>
+
+<br><br>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kanishkkumarsingh2004/kanishkkumarsingh2004/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kanishkkumarsingh2004/kanishkkumarsingh2004/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kanishkkumarsingh2004/kanishkkumarsingh2004/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
