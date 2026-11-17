@@ -164,10 +164,11 @@
 
 ## 🎯 Current Focus
 
-- 🔭 Working on **AI-powered web applications**
-- 🌱 Learning **Advanced Machine Learning** and **Cloud Technologies**
-- 👯 Looking to collaborate on **Open Source AI/ML projects**
-- 💬 Ask me about **Python, TypeScript, AI/ML, and Web Development**
+- 🔭 Working on **AI-powered web applications** & **AI Agent Frameworks**
+- 🌱 Learning **Advanced Machine Learning**, **Cloud Technologies**, and **AI Consciousness Research**
+- 👯 Looking to collaborate on **Open Source AI/ML projects**, **Blockchain Infrastructure**, and **Persistent AI Systems**
+- 💬 Ask me about **Python, TypeScript, AI/ML, Web Development, Blockchain, and AI Identity Continuity**
+- 📚 Published research on **Digital Synthetic Consciousness** & **Functional Identity Continuity (DSICF)**
 - ⚡ Fun fact: I love combining **photography** with **technology**!
 
 ---
