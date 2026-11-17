@@ -48,11 +48,13 @@
 ### ⚡ [ChainForgeLedger](https://pypi.org/project/ChainForgeLedger/)
 **Complete Blockchain Platform Library**
 
-- **Tech Stack:** Python, Blockchain
-- **Features:** PoW/PoS consensus, smart contracts, DeFi applications
+- **Tech Stack:** Python, Blockchain, Cryptography, P2P Networking
+- **Features:** PoW/PoS consensus, smart contracts, DeFi applications, token standards (ERC20/ERC721), Merkle trees, UTXO model, account model
 - **Version:** 1.0.0 | **Released:** Feb 2026
+- **Architecture:** Pure Python implementation, modular consensus engines, pluggable virtual machines, event-driven P2P layer
+- **Use Cases:** Blockchain education, research, prototyping DeFi protocols, custom chain development
 
-*A comprehensive blockchain library built from scratch with pure Python, featuring core blockchain operations, smart contracts, and decentralized finance capabilities.*
+*A comprehensive blockchain library built from scratch with pure Python, featuring core blockchain operations, smart contracts, and decentralized finance capabilities. Includes complete implementations of consensus mechanisms, cryptographic primitives, and a flexible VM for smart contract execution.*
 
 </td>
 <td width="50%">
@@ -60,11 +62,13 @@
 ### 🔗 [chainforge-ledger](https://www.npmjs.com/package/chainforge-ledger)
 **Research-Level Modular Blockchain Framework**
 
-- **Tech Stack:** TypeScript, Blockchain
-- **Features:** Comprehensive testing, modular architecture, ERC standards
+- **Tech Stack:** TypeScript, Blockchain, Testing Frameworks (Jest/Vitest)
+- **Features:** Comprehensive testing, modular architecture, ERC standards (ERC20, ERC721, ERC1155), consensus abstraction, VM implementations, fork management
 - **Version:** 1.0.0 | **Released:** Feb 2026
+- **Architecture:** Strictly typed, interface-driven design, plugin-based consensus/VM/storage, property-based testing
+- **Use Cases:** Blockchain research, formal verification, protocol testing, academic coursework, reference implementations
 
-*A TypeScript-based blockchain framework with comprehensive testing suite covering all aspects of blockchain systems, including ERC20/ERC721/ERC1155 token standards and modular architecture.*
+*A TypeScript-based blockchain framework with comprehensive testing suite covering all aspects of blockchain systems, including ERC20/ERC721/ERC1155 token standards and modular architecture. Designed for correctness-first development with exhaustive test coverage.*
 
 </td>
 </tr>
@@ -74,23 +78,29 @@
 ### 🤖 [daie](https://pypi.org/project/daie/)
 **Decentralized AI Ecosystem**
 
-- **Tech Stack:** Python, AI/ML
-- **Features:** AI agent management, intelligent tool selection, LLM integration
+- **Tech Stack:** Python, AI/ML, AsyncIO
+- **Features:** AI agent management, intelligent tool selection, LLM integration, persistent memory, functional state preservation, metacognitive evaluation
 - **Version:** 1.0.6 | **Released:** April 2026
+- **Architecture:** Modular plugin system, event-driven, distributed execution support
+- **Use Cases:** Research on AI identity continuity, persistent agent frameworks, hybrid lifelong learning systems
 
-*A professional, optimized Python library for creating and managing AI agents with tools, featuring intelligent task execution, memory management, and LLM integration.*
+*A professional, optimized Python library for creating and managing AI agents with tools, featuring intelligent task execution, memory management, and LLM integration. DAIE serves as the experimental runtime for the Digital Synthetic Identity and Continuity Framework (DSICF), enabling research on functional identity persistence across agent restarts, branching, and distributed execution.*
 
 </td>
 <td width="50%">
 
-### ♟️ Chess Animation
-**The Immortal Game (1851)**
+### ♟️ Research Publication
+**Digital Synthetic Consciousness**
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Immortal_game_animation.gif" width="200" alt="Chess Game Animation"/>
+  <a href="https://www.researchgate.net/publication/417966840_Digital_Synthetic_Consciousness_A_Progressive_Framework_for_Biological_Brain_Emulation_Hybrid_Lifelong_Learning_Lossless_Knowledge_Preservation_Autonomous_Interaction_and_Digital_Cognitive_Continuity" target="_blank">
+    <img src="https://img.shields.io/badge/Read%20Paper-ResearchGate-green?style=for-the-badge&logo=researchgate" alt="Read Paper on ResearchGate" />
+  </a>
 </div>
 
-*Enjoy this classic chess game animation right here in my profile!*
+*A Progressive Framework for Biological Brain Emulation, Hybrid Lifelong Learning, Lossless Knowledge Preservation, Autonomous Interaction and Digital Cognitive Continuity*
+
+**Abstract:** This paper explores Functional Identity Continuity in Persistent and Distributed AI Agents, investigating how an AI agent can maintain functional identity, memory, self-modelling, and behavioural consistency across restarts, state restoration, branching, and distributed execution. It proposes the Digital Synthetic Identity and Continuity Framework (DSICF) for studying identity continuity through persistent memory, functional state preservation, and metacognitive evaluation, using the Distributed AI Environment (DAIE) for experimental methodology.
 
 </td>
 </tr>
