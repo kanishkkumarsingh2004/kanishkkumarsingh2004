@@ -110,6 +110,18 @@
 
 ---
 
+## 📚 Research Publications
+
+<div align="center">
+
+| Publication | Description | Platform |
+|-------------|-------------|----------|
+| **[Digital Synthetic Consciousness: A Progressive Framework for Biological Brain Emulation, Hybrid Lifelong Learning, Lossless Knowledge Preservation, Autonomous Interaction and Digital Cognitive Continuity](https://www.researchgate.net/publication/417966840_Digital_Synthetic_Consciousness_A_Progressive_Framework_for_Biological_Brain_Emulation_Hybrid_Lifelong_Learning_Lossless_Knowledge_Preservation_Autonomous_Interaction_and_Digital_Cognitive_Continuity)** | Explores Functional Identity Continuity in Persistent and Distributed AI Agents. Proposes the Digital Synthetic Identity and Continuity Framework (DSICF) for studying identity continuity through persistent memory, functional state preservation, and metacognitive evaluation. Uses the Distributed AI Environment (DAIE) for experimental methodology. | ResearchGate |
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
